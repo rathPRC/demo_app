@@ -1,0 +1,4 @@
+Name: Iron Man
+Armor: Mark 1
+Enemy: Thanos
+Enemy Level (fetched from Thanos.txt): 1 
