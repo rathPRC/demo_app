@@ -1,0 +1,4 @@
+Name: Thanos
+Stones Level: 1
+Enemy: Iron Man
+Enemy Level (fetched from Iron Man.txt Armor): 1 
